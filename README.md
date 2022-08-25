@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/NNQm31n/Screenshot-2022-08-25-at-15-15-06.png" alt="Title of image">
+<img src="https://i.ibb.co/NNQm31n/Screenshot-2022-08-25-at-15-15-06.png" alt="Dickson's Description">
 
 **Frontend/Solidity Engineer | Open Source**
 
