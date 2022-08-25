@@ -1,4 +1,4 @@
-### Hi there, I'm Ojochogwu Dickson. Frontend/Solidity Engineer, very interested in bridging gap between Ui and Desihn. I love to collaborate on Open Source oppurtunities, fell free to fill me in. 👋
+### Hi there, I'm Ojochogwu Dickson. Frontend/Solidity Engineer, very interested in bridging gap between Ui and Design. I love to collaborate on Open Source oppurtunities, fell free to fill me in. 👋
 
 <!--
 **Ojochogwu866/Ojochogwu866** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
