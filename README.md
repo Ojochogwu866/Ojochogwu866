@@ -1,4 +1,4 @@
-# Hello, I am Dickson
+<img src="https://drive.google.com/file/d/1cEw2cLixsatcAYHJdmISYHoQX9yyMZke/view?usp=sharing" alt="Title of image">
 
 **Frontend/Solidity Engineer | Open Source**
 
