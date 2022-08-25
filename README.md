@@ -2,7 +2,7 @@
 
 **Frontend/Solidity Engineer | Open Source**
 
-[ Follow @Ojochogwu](http://eddiejaoude.io)
+[ Follow @Ojochogwu](https://twitter.com/ojochogwu_d)
 
 <!--
 **Ojochogwu866/Ojochogwu866** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
