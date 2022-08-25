@@ -2,7 +2,7 @@
 
 **Frontend/Solidity Engineer | Open Source**
 
-<a href="http://eddiejaoude.io">Eddie Jaoude</a>
+<a href="https://twitter.com/ojochogwu_d"><i class="fa-brands fa-twitter"></i> Follow @ojochogwwu</a>
 
 - 🔭 I’m currently working on Smart Contracts
 - 🌱 I’m currently learning ...
