@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/pw7MTR1/Yellow-Remarkable-Minimal-Followers-Twitter-Header.png" alt="Dickson's Description">
+
 
 **Frontend/Solidity Engineer | Open Source**
 
