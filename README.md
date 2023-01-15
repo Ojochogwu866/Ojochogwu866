@@ -1,11 +1,11 @@
 
 
-**Frontend/Solidity Engineer | Open Source**
-
-- 🔭 I’m currently working on Smart Contracts
-- 🌱 I’m currently learning Everything Blockchain and Open source
-- 👯 I’m looking to collaborate on Open Source projects, Blockchain & related roles
-- 🤔 I’m looking for help with Frontend implementation in Vue and React
-- 💬 Ask me about Ui/Ux implementations, Solidity and related stuffs
+**Ui Engineer| Solidity Dev | Open Source**
+     
+     Curent Interest
+- 🔭 Intersecting between implementing feature-perfect User interfaces and writing very secure Smart-contracts 
+- 🌱 Building solid open-source foundation.
+- 👯 Looking forward to collaborate on smart-contracts and related projects.
+- 🤔 Ask me about anything Frontend
 - 😄 Pronouns: He/Him
 
