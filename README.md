@@ -1,6 +1,6 @@
 
 
-**Ui Engineer | Solidity Dev | Open Source Ethusiast**
+**Ui Engineer | Open Source Ethusiast**
      
      Current Interests
 - 🔭 Intersecting between implementing feature-perfect User interfaces and writing very secure Smart-contracts 
