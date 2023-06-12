@@ -1,11 +1,11 @@
 
 
-**Ui Engineer | Open Source Ethusiast**
+**Ui Engineer**
      
      Current Interests
 - 🔭 Intersecting between implementing feature-perfect User interfaces and writing very secure Smart-contracts 
-- 🌱 Building solid open-source foundation.
-- 👯 Looking forward to collaborate on smart-contracts and related projects.
-- 🤔 Ask me about anything Frontend
+- 🌱 Building solutions and ontributing to open source.
+- 👯 Work/Collaborate - UIs and Smart Contracts.
+- 🤔 Ask me on Javascript
 - 😄 Pronouns: He/Him
 
