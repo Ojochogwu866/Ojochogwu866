@@ -3,7 +3,7 @@
 **Ui Engineer**
      
      Current Interests
-- 🔭 Intersecting between implementing feature-perfect User interfaces and writing very secure Smart-contracts 
+- 🔭 Building modern pixel-perfect user interface. 
 - 🌱 Building solutions and ontributing to open source.
 - 👯 Work/Collaborate - UIs and Smart Contracts.
 - 🤔 Ask me on Javascript
