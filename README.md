@@ -1,6 +1,6 @@
 
 
-**Frontend Engineer**
+**Fullstack Engineer**
      
      Current Interests
 - 🚀 Engineering products, pages and systems.
