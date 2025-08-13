@@ -1,10 +1,10 @@
 
 
-**FE**
+**Software Engineer**
      
-     Current Interests
-- 🚀 Engineering products, pages and systems.
-- 🌱 Crafting solutions that are scalable and building one or more at a time.
-- 👯 Interested in collaborating and Contributing to fast paced projects.
-- 💻 A JavaScript enthusiast? feel free to ask me anything about the intricacies of the language.
-- 🛠️ Expertise: FullStack Engineering (JavaScript, TypeScript).
+     Focus
+- Engineering scalable web applications with focus on performance optimization and infrastructure efficiency
+- Exploring computational sciences, specifically computational chemistry and molecular analysis
+- Contributing to technical architecture decisions and product strategy in cross-functional environments
+- Collaborating on projects that bridge software engineering with scientific computing
+- Expertise: Fullstack Engineering (TypeScript, JavaScript, Python), Cloud Infrastructure, Data Science
