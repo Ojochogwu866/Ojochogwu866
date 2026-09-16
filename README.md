@@ -1,10 +1,6 @@
-
-
 **Software Engineer**
-     
-     Focus
-- Engineering scalable web applications with focus on performance optimization and infrastructure efficiency
-- Exploring computational sciences, specifically computational chemistry
-- Contributing to technical architecture decisions and product strategy in cross-functional environments
-- Collaborating on projects that bridge software engineering with scientific computing
-- Expertise: Fullstack Engineering (TypeScript, JavaScript, Python), Cloud Infrastructure, Data Science
+
+- Building and shipping production ML systems across health, science, and applied domains
+- Fullstack engineering (TypeScript, Python) with cloud infrastructure and data pipelines
+- Applied ML: toxicity/chemical prediction, forecasting systems, and scientific computing
+- Contributing to technical architecture and product strategy in cross-functional teams
